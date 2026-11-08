@@ -2,7 +2,7 @@
 
 最終更新日: 2026-11-08
 
-提供者: ADS(連絡先: isokonbu.com@gmail.com)
+提供者: ADS(連絡先: app.developer.studio.jp@gmail.com)
 
 ## 1. 概要
 
@@ -35,6 +35,7 @@ Manga Cloudia は、利用者自身の Microsoft(OneDrive)アカウント内の�
 端末内のデータは、アプリ内の「キャッシュを削除」、またはアプリのアンインストールで削除されます。
 
 設定画面のログアウトで、認証情報を端末から消去できます。
+
 アプリへの許可は https://account.live.com/consent/Manage で取り消せます。
 
 ## 7. 子どもについて
@@ -47,4 +48,4 @@ Manga Cloudia は、利用者自身の Microsoft(OneDrive)アカウント内の�
 
 ## 9. 連絡先
 
-isokonbu.com@gmail.com
+app.developer.studio.jp@gmail.com
